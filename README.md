@@ -1,5 +1,6 @@
 # 💫 About Me:
-👋 Hi<br> <br>🌱 I am Eman Abdallah, a graduate in Electrical Engineering and Computer Science, specializing in Data Science and Machine Learning, statistical analysis, and data visualization, specializing in transforming raw data into actionable insights.<br>My ability to combine technical expertise with a deep understanding of business needs allows me to deliver tailored solutions that drive decision-making and optimize outcomes.<br>Whether it's building predictive models, uncovering hidden trends, or automating data workflows, I am committed to delivering high-quality, innovative solutions that solve real-world problems efficiently and effectively.- 👯 I’m looking to collaborate on ...<br><br> 📫 You can contact me Via email : emanabdallah307@gmail.com<br>
+👋 Hi<br> <br>🌱 I am Eman Abdallah, a graduate in Electrical Engineering and Computer Science, specializing in Data Science and Machine Learning, statistical analysis, and data visualization, specializing in transforming raw data into actionable insights.<br>My ability to combine technical expertise with a deep understanding of business needs allows me to deliver tailored solutions that drive decision-making and optimize outcomes.<br>Whether it's building predictive models, uncovering hidden trends, or automating data workflows, I am committed to delivering high-quality, innovative solutions that solve real-world problems efficiently and effectively.
+<br><br> 📫 You can contact me Via email : emanabdallah307@gmail.com<br>
 
 
 ## 🌐 Socials:
